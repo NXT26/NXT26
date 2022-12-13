@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Sasha</h1>
+<h3 align="center">Second-year student at ITMO University. CSE '25.</h3>
 
+- 😎 I’m 19 years old
+
+- 📈 I want to become an analyst
+
+- 🌱 I’m currently learning statistics
+
+- 📫 How to reach me: s-shchapov@mail.ru
+
+- 😎 my [resume](https://drive.google.com/file/d/1g8k5Jk7C6-lmJdxhy63HRG_TsdSOCyiY/view?usp=sharing)
 <!--
 **NXT26/NXT26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
