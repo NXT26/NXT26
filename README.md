@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sasha</h1>
 <h3 align="center">Second-year student at ITMO University. CSE '25.</h3>
 
-- 😎 I’m 19 years old
-
-- 📈 I want to become an analyst
-
-- 🌱 I’m currently learning statistics
+- 😎 I’m 20 years old
 
 - 📫 How to reach me: s-shchapov@mail.ru
 
