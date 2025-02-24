@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sasha</h1>
-<h3 align="center">Second-year student at ITMO University. CSE '25.</h3>
+<h3 align="center">Fourth-year student at ITMO University. CSE '25.</h3>
 
 - 😎 I’m 21 years old
 
