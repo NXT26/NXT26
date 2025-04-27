@@ -4,6 +4,7 @@
 - 😎 I’m 21 years old
 
 - 📫 How to reach me: s-shchapov@mail.ru
+- leetcode: https://leetcode.com/NXT26
 
 <!--
 **NXT26/NXT26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
